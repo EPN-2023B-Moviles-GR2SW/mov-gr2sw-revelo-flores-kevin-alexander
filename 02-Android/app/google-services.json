@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856561951188",
+    "project_id": "b2023-gr2sw-karf",
+    "storage_bucket": "b2023-gr2sw-karf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856561951188:android:a2d5830262e5cc4bce3641",
+        "android_client_info": {
+          "package_name": "com.example.b2023gr2sw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshH5SHELd-nUKC-aExDRsLKXhqQjMe4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
