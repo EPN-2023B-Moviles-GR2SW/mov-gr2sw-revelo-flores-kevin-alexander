@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B2023gr2sw</string>
+    <string name="title_activity_aresources">AResources</string>
+    <string name="saludo">Hello World -> Portrait</string>
+    <color name="textoColor">#008000</color>
+    <color name="fondoColor">#FF7F50</color>
+</resources>
