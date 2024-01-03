@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1eaaa72-20cc-44c2-8fed-0439472c432c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proyecto/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proyecto/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/java/com/example/b2023gr2sw/ACicloVida.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/res/layout/activity_aciclo_vida.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/java/com/example/b2023gr2sw/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/java/com/example/b2023gr2sw/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/res/values-land/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Android/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +62,7 @@
       <workItem from="1700053887193" duration="5459000" />
       <workItem from="1700569968499" duration="5420000" />
       <workItem from="1700656086563" duration="2132000" />
+      <workItem from="1702001184840" duration="249000" />
     </task>
     <servers />
   </component>
