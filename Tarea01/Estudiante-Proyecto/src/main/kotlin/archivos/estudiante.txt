@@ -1,0 +1,5 @@
+1 | Juan Pérez | 2000-01-15 | 3.8 | true
+2 | María Rodríguez | 1999-05-20 | 3.5 | false
+3 | Carlos Gómez | 2001-03-10 | 4.0 | true
+4 | Ana López | 2000-11-28 | 3.2 | false
+5 | Javier Martínez | 1998-09-05 | 3.9 | true

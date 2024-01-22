@@ -1,0 +1,4 @@
+1 | Proyecto A | 2022-01-01 | 50000.0 | true | 1
+2 | Proyecto B | 2022-02-15 | 75000.0 | false | 3
+3 | Proyecto C | 2022-04-30 | 60000.0 | true | 5
+4 | Proyecto D | 2022-06-12 | 80000.0 | false | 1
