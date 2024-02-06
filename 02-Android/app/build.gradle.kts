@@ -51,6 +51,15 @@ android {
 }
 
 dependencies {
+    //Firebase
+    implementation("com.google.firebase:firebase-auth:22.3.1")
+    // Libreria de Autenticacion
+    implementation("com.google.android.gms:play-services-auth:20.7.0")
+    implementation("com.google.firebase:firebase-auth-ktx:22.3.1")
+    // UI Libreria auth
+    implementation("com.firebaseui:firebase-ui-auth:7.2.0")
+    // Firestore
+    implementation("com.google.firebase:firebase-firestore-ktx:24.10.1")
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")

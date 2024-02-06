@@ -22,7 +22,8 @@
         android:layout_height="37dp"
         android:text="Descripcion"
         tools:layout_editor_absoluteX="411dp"
-        tools:layout_editor_absoluteY="172dp" />
+        tools:layout_editor_absoluteY="172dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/tv_likes"
