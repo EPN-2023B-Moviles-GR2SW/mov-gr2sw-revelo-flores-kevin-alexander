@@ -6,6 +6,6 @@ import android.os.Bundle
 class StatusView : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.item_status_view)
+        setContentView(R.layout.activity_status)
     }
 }
