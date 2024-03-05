@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProyectoIIB</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weigth">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="Error">Error</string>
+
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Está por debajo del peso recomendado</string>
+
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Está en el peso recomendado </string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Está por encima del peso recomendado</string>
+
+    <string name="title_obesidad">Sobrepeso</string>
+    <string name="description_obesidad">Está MUY por encima del peso normal, es un riesgo para su salud</string>
+
+
+    <!--TODO APP-->
+    <string name="title_todo">GYMSHARK</string>
+    <string name="todo_categories">Categorias: </string>
+    <string name="todo_task">Tareas: </string>
+
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_TrenSuperior">Tren Superior</string>
+    <string name="todo_dialog_category_TrenInferior">Tren Inferior</string>
+    <string name="todo_dialog_category_other">Otro</string>
+
+    <string name="todo_dialog_add_task_button">Crear Tarea</string>
+</resources>
